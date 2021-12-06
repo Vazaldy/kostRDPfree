@@ -1,4 +1,4 @@
-name: CI
+name: kostRDPfree
 
 on: workflow_dispatch
 
